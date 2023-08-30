@@ -1,5 +1,5 @@
 
-#Simple Web Scraping Tool with GUI (using BeautifulSoup):
+<h1>Simple Web Scraping Tool with GUI (using BeautifulSoup):</h1>
 
 This is a simple web scraping tool that provides a graphical user interface (GUI) to extract the most used keywords from a webpage using BeautifulSoup4 (Bs4). The tool is designed for scraping content from simple websites and is intended for educational and legitimate purposes only.
 
